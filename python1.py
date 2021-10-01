@@ -6,3 +6,7 @@ mytripler = myfunc(3)
 
 print(mydoubler(11))
 print(mytripler(11))
+str = ("maddy")
+print(str)
+
+
